@@ -4,8 +4,8 @@ import meme1 from "../assets/img/meme1.jpg"
 import meme2 from "../assets/img/meme2.jpg"
 import meme3 from "../assets/img/meme3.jpg"
 import meme4 from "../assets/img/meme4.jpg"
-import meme5 from "../assets/img/meme5.jpg"
-import meme6 from "../assets/img/meme6.jpg"
+import meme5 from "../assets/img/meme5.JPG"
+import meme6 from "../assets/img/meme6.JPG"
 import Section from "./Section";
 
 const shakeAnimation = {
