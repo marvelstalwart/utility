@@ -12,7 +12,7 @@ const App = () => {
   const [dark, setDark] = useState(true);
 
   useEffect(() => {
-    document.title = "GOLDAPE Token";
+    document.title = "Utilitycoin";
   }, []);
 
   return (
