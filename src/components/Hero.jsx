@@ -17,6 +17,8 @@ const Hero = () => (
 </h1>
 
       <p className="text-xl md:text-4xl mb-6 text-green-50 font-semibold">Bringing Utility on Chain</p>
+
+    
       <motion.button
         whileHover={{ scale: 1.1 }}
         className="bg-[#FF8C17] italic
