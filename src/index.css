@@ -1,0 +1,10 @@
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Optional: Ensure snap sections occupy full screen height */
+section {
+  min-height: 100vh;
+}
